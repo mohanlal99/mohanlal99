@@ -54,7 +54,7 @@
 
 ### 🛠️ Technologies & Tools  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,express,mongodb,tailwind,git,github,vscode,bootstrap,html,css" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,express,mongodb,tailwind,git,github,vscode,html,css" alt="Tech stack" />
 </div>
 
 ---
