@@ -21,23 +21,40 @@
 
 ---
 
-### 🌐 My Portfolio  
-[Visit Portfolio](https://codewithmohanlal.vercel.app)
+### 📊 Stats & Languages  
+<table>
+<tr>
+<td width="50%">
+  
+#### 🔥 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohanlal99&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+</td>
+<td width="50%">
+  
+#### 📚 Most Used Languages  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanlal99&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌟 Contribution Activity  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanlal99&bg_color=141321&color=ffffff&line=fe428e&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
 ### 🛠️ Technologies & Tools  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,express,mongodb,tailwind,git,github,vscode" alt="Tech stack" />
-</div>
-
----
-
-### 📈 Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanlal99&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanlal99&bg_color=141321&color=ffffff&line=fe428e&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,express,mongodb,tailwind,git,github,vscode,bootstrap,html,css" alt="Tech stack" />
 </div>
 
 ---
