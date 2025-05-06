@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td >
   
 ### 🚀 About Me
 - 🌱 Currently enhancing my skills in **Full-Stack Development**  
@@ -13,7 +13,7 @@
 - 💬 Open to collaboration on challenging projects  
 
 </td>
-<td width="50%" align="center">
+<td  align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="300" alt="Coding GIF" />
 </td>
 </tr>
