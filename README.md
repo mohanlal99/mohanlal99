@@ -1,52 +1,57 @@
-<h1 align="center">Hi 👋, I'm Mohanlal</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+# 👋 Hi, I'm Mohanlal  
+### 🚀 Full-Stack Web Developer | Problem Solver | Code Lover | Tech Explorer
 
 ---
 
-## 🚀 About Me
+## 🔥 About Me
 
-- 👨‍🎓 Completed my Full-Stack Web Development course at **Masai School**
-- 💻 Skilled in building modern, responsive web applications
-- 💼 Ready to work in a dynamic team or company environment
-- 💡 Always open to learning new technologies and solving real-world problems
-- 🔒 Experience with **Authtication**, API Integration & Server Deployment  
-  
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,vscode" alt="Tech Stack" />
-</div>
+- 🎓 Graduated from **Masai School** with a specialization in Full-Stack Web Development  
+- 🧠 Passionate about building modern, responsive, and scalable web applications  
+- 🛠️ Skilled in **Authentication**, **API Integration**, and **Server Deployment**  
+- 🤝 Thrive in collaborative environments and enjoy solving real-world problems  
+- 🌱 Always eager to learn new technologies and enhance my skills 
 
 ---
 
-## 📈 GitHub Stats & Languages
+## 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohanlal99&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanlal99&layout=compact&theme=radical" width="45%" />
-</div>
-
----
-
-### 🌟 Contribution Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanlal99&bg_color=141321&color=ffffff&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" alt="Tech Stack" />
+</p>
 
 ---
 
-### 📫 Let's Connect  
-<div align="center">
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohanlal99&show_icons=true&theme=radical" width="45%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mohanlal99&theme=radical&date_format=j%20M%5B%20Y%5D" width="45%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanlal99&layout=compact&theme=radical" width="45%" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanlal99&bg_color=141321&color=ffffff&line=fe428e&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mohan-lal-4719a9315" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mohanlal99" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://codewithmohanlal.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-34a853?style=for-the-badge&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-</div>
+</p>
